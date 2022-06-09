@@ -360,6 +360,12 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
+  },
+  "agile": {
+    title_color: "F15412",
+    icon_color: "34B3F1",
+    text_color: "EEEEEE",
+    bg_color: "000000",
   }
 };
 
